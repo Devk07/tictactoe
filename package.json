@@ -1,0 +1,15 @@
+{
+  "name": "ventureconnect",
+  "version": "1.0.0",
+  "description": "XOX Game with Leaderboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
